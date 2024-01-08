@@ -16,7 +16,7 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/masumesani/masumesani/assets/31848828/acbf2154-207e-4295-a237-c9696aeb8473" alt="numpy" width="100" height="100" /></a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/masumesani/masumesani/assets/31848828/3a00fd19-cb41-4ea6-ac0d-678c957a3223" alt="seaborn" width="100" height="100" /></a>
 </div>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
 <div style="display:flex;justify-content:space-between;gap:10%;"> 
 <h4>Data Analytics Tools</h4>
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://github.com/masumesani/masumesani/assets/31848828/da8337f2-3b8e-4164-8104-dfdf6a774d20" alt="PowerBI" width="100" height="100" /></a>
@@ -25,7 +25,7 @@
 <a href="https://www.knime.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/masumesani/masumesani/assets/31848828/904e3f70-73b6-4fb3-bcc1-3c09ac6c3ab5" alt="knime" width="100" height="100" /></a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/masumesani/images-on-github/assets/31848828/ed4e8403-3a05-4c99-b5d0-19b6cacba7fe" alt="jypyter notebook" width="100" height="100" /></a>
 </div>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
  <div style="display:flex;justify-content:space-between;gap:10%;"> 
  <h4>Database and Database Query</h4>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100" /></a> 
@@ -35,7 +35,7 @@
 <a href="https://knexjs.org/" rel="noreferrer"> <img src="https://github.com/masumesani/images-on-github/assets/31848828/59d3c4c3-416b-4973-9381-772dff1f6c9a" width="100" height="100" /></a>
 <a href="https://www.mongodb.com/use-cases/analytics" rel="noreferrer"> <img src="https://github.com/masumesani/images-on-github/assets/31848828/cb7f5e66-8757-47fe-93b5-7648b32f6555" width="130" height="100" /></a>
  </div>
- --------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ----------------------------------------------------------------------------------------------------------------------------------------------------
  <div style="display:flex;justify-content:space-between;gap:10%;"> 
 <h3>Web Technologies</h3>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70" /></a>
