@@ -35,9 +35,19 @@
 <a href="https://knexjs.org/" rel="noreferrer"> <img src="https://github.com/masumesani/images-on-github/assets/31848828/59d3c4c3-416b-4973-9381-772dff1f6c9a" width="100" height="100" /></a>
 <a href="https://www.mongodb.com/use-cases/analytics" rel="noreferrer"> <img src="https://github.com/masumesani/images-on-github/assets/31848828/cb7f5e66-8757-47fe-93b5-7648b32f6555" width="130" height="100" /></a>
  </div>
- ----------------------------------------------------------------------------------------------------------------------------------------------------
+
  <div style="display:flex;justify-content:space-between;gap:10%;"> 
+ <hr>
 <h3>Web Technologies</h3>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70" /></a>
- <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/masumesani/images-on-github/assets/31848828/4766cf17-0992-4d9b-ba3a-908451eaa7c5" alt="react" width="70" height="70" /></a> 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /></a>
+ <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/masumesani/images-on-github/assets/31848828/4766cf17-0992-4d9b-ba3a-908451eaa7c5" alt="react" width="50" height="50" /></a> 
+ <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://github.com/masumesani/images-on-github/assets/31848828/c9fa6617-e8a2-4d7e-9d28-d49b0e2f484b" alt="node.js" width="50" height="50" /></a> 
+ <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/masumesani/images-on-github/assets/31848828/cbf9df01-a29c-4edf-bb16-1b4d9631e4a4" alt="Swagger" width="50" height="50" /></a> 
  </div>
+ <hr>
+<div style="display:flex;justify-content:space-between;gap:10%;"> 
+<h3>Miscellaneous</h3>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/masumesani/images-on-github/assets/31848828/a222d142-f134-479b-a7f2-4e1fa1c1795c" alt="git" width="50" height="50" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/masumesani/images-on-github/assets/31848828/4a07c873-64c3-4418-bcda-530423a52cca" alt="" width="50" height="50" /></a>
+<a href="https://mermaid.js.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/masumesani/images-on-github/assets/31848828/0a380e73-b179-4318-b5d8-87d21f8fb95d" alt="" width="50" height="50" /></a>
+<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/masumesani/images-on-github/assets/31848828/be9fb2d0-e99a-4792-b5f1-5020a7b7b663" alt="markdown" width="50" height="50" /></a>
