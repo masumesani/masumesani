@@ -32,7 +32,8 @@
  <h3>Database and Database Query</h3>
   <h2></h2>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100" /></a> 
-<a href="https://learn.microsoft.com/en-us/dax/)" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRRCxDYw1rsKZnL5Nk63o9o5vSbVsd-d3BiQ&usqp=CAU" alt="PowerBI" width="100" height="100" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/masumesani/masumesani/assets/31848828/3dd8a0f5-51a5-4782-a0fe-29c3a72fc8b3" alt="postgresql" width="100" height="100" /></a> 
+ <a href="https://learn.microsoft.com/en-us/dax/)" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRRCxDYw1rsKZnL5Nk63o9o5vSbVsd-d3BiQ&usqp=CAU" alt="PowerBI" width="100" height="100" /></a>
  <a href="https://powerquery.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://github.com/masumesani/images-on-github/assets/31848828/d08968bd-e61c-4ba6-894e-71326b2c7dec" alt="PowerBI" width="100" height="100" /></a>
 <a href="https://dbml.dbdiagram.io/home/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHtnGBJrpjfkWSYH0s8AmV4zGfoDnV1yi-SA&usqp=CAU" alt="database markup language" width="100" height="100" /></a>
 <a href="https://knexjs.org/" rel="noreferrer"> <img src="https://github.com/masumesani/images-on-github/assets/31848828/59d3c4c3-416b-4973-9381-772dff1f6c9a" width="100" height="100" /></a>
