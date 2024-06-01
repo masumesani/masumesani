@@ -47,6 +47,8 @@
  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/masumesani/images-on-github/assets/31848828/4766cf17-0992-4d9b-ba3a-908451eaa7c5" alt="react" width="50" height="50" /></a> 
  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://github.com/masumesani/images-on-github/assets/31848828/c9fa6617-e8a2-4d7e-9d28-d49b0e2f484b" alt="node.js" width="50" height="50" /></a> 
  <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/masumesani/images-on-github/assets/31848828/cbf9df01-a29c-4edf-bb16-1b4d9631e4a4" alt="Swagger" width="50" height="50" /></a> 
+ <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://github.com/masumesani/masumesani/assets/31848828/b7fee427-bf85-43df-a205-e1796799ceb8" alt="Microsoft Azure" width="50" height="50" /></a> 
+
  </div>
 <h2></h2>
 <div style="display:flex;justify-content:space-between;gap:10%;"> 
